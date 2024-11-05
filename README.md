@@ -13,13 +13,13 @@ Este ebook páginas mergulha no fascinante mundo da IA Generativa, explorando de
   </center>
 
 ## 🤖 Tecnologias Utilizadas
-* IA Generativa Gemine para criação de prompts e desenvolvimento do texto base do ebook
-* IA generativa CHAT GPT para criar os Tópicos e títulos do ebook a partir do prompt do Gemine
-* IA generativa Dzine para criação da imagem base da capa
-* Platafroma gratuita de edição de imagem e diagramação para finalização do ebook
+* IA generativa [Dzine](https://www.dzine.ai/?via=paty) para criação da imagem base da capa
+* IA Generativa Gemini para criação de prompts e desenvolvimento do texto base do ebook
+* IA generativa CHAT GPT para criar os Tópicos e títulos do ebook a partir do prompt do Gemini
+* Plataforma gratuita de edição de imagem e diagramação para finalização do ebook
 
 ## 🧐 Processo de Criação
-Como forma de testar a compatibilidade das IAs generativas usei prompts criados pela "Gemine" no "ChatGPT" para gerar partes do conteúdo e ver como elas se comportavam e as repostas foram bem parecidas. As duas me ajudaram a estruturar e refinar o conteúdo. Por outro lado a "Dzine" foi usada para gerar iamgens exclusivas para nosso ebook. Para comcluir , a montagem final usei platafroma gratuita de edição de imagem para diagramação do ebook e finalização da capa 
+Como forma de testar a compatibilidade das IAs generativas usei prompts criados pela "Gemini" no "ChatGPT" para gerar partes do conteúdo e ver como elas se comportavam e as repostas foram bem parecidas. As duas me ajudaram a estruturar e refinar o conteúdo. Por outro lado a "Dzine" foi usada para gerar iamgens exclusivas para nosso ebook. Para comcluir , a montagem final usei platafroma gratuita de edição de imagem para diagramação do ebook e finalização da capa 
 
 ## 🚀 Resultados
 O resultado foi um ebook para quem quer saber o que é Inteligência artificial generativa, como ela funciona, aplicações, como ela está revolucionando nosso dia a dia... 
